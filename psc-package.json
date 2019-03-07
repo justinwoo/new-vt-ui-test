@@ -1,0 +1,11 @@
+{
+  "name": "psc-package-halogen-4",
+  "set": "psc-0.12.3-20190306",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "choco-pie",
+    "debug",
+    "halogen",
+    "prelude"
+  ]
+}
